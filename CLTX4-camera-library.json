@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "name": "Brazil — Cam 1",
+    "country": "BR",
+    "flag": "🇧🇷",
+    "type": "image",
+    "url": "http://189.1.167.124:4321/cam_1.cgi",
+    "description": "Brazil camera feed 1"
+  },
+  {
+    "id": 2,
+    "name": "Brazil — Cam 2",
+    "country": "BR",
+    "flag": "🇧🇷",
+    "type": "image",
+    "url": "http://189.1.167.124:4321/cam_2.cgi",
+    "description": "Brazil camera feed 2"
+  },
+  {
+    "id": 3,
+    "name": "Brazil — Cam 3",
+    "country": "BR",
+    "flag": "🇧🇷",
+    "type": "image",
+    "url": "http://189.1.167.124:4321/cam_3.cgi",
+    "description": "Brazil camera feed 3"
+  },
+  {
+    "id": 4,
+    "name": "Spain — Cam 1",
+    "country": "ES",
+    "flag": "🇪🇸",
+    "type": "image",
+    "url": "http://46.253.32.35/cam_1.cgi",
+    "description": "Spain camera feed 1"
+  },
+  {
+    "id": 5,
+    "name": "Spain — Cam 2",
+    "country": "ES",
+    "flag": "🇪🇸",
+    "type": "image",
+    "url": "http://46.253.32.35/cam_2.cgi",
+    "description": "Spain camera feed 2"
+  },
+  {
+    "id": 6,
+    "name": "Spain — Cam 3",
+    "country": "ES",
+    "flag": "🇪🇸",
+    "type": "image",
+    "url": "http://46.253.32.35/cam_3.cgi",
+    "description": "Spain camera feed 3"
+  },
+  {
+    "id": 7,
+    "name": "United States — Cam 1",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://98.224.74.46:81/cam_1.cgi",
+    "description": "United States camera feed 1"
+  },
+  {
+    "id": 8,
+    "name": "United States — Cam 2",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://98.224.74.46:81/cam_2.cgi",
+    "description": "United States camera feed 2"
+  },
+  {
+    "id": 9,
+    "name": "United States — Cam 3",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://98.224.74.46:81/cam_3.cgi",
+    "description": "United States camera feed 3"
+  },
+  {
+    "id": 10,
+    "name": "United States — Cam 4",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://75.149.26.30:1024/cam_1.cgi",
+    "description": "United States camera feed 4"
+  },
+  {
+    "id": 11,
+    "name": "United States — Cam 5",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://184.57.102.6:9090/cam_1.cgi",
+    "description": "United States camera feed 5"
+  },
+  {
+    "id": 12,
+    "name": "United States — Cam 6",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://187.170.255.6:8080/cam_1.cgi",
+    "description": "United States camera feed 6"
+  },
+  {
+    "id": 13,
+    "name": "Denmark — Summer Shed",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_2.jpg?uniq=0.1312361181916596",
+    "description": "Summer Shed"
+  },
+  {
+    "id": 14,
+    "name": "Denmark — Summer Terrace",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_3.jpg",
+    "description": "Summer Terrace"
+  },
+  {
+    "id": 15,
+    "name": "Denmark — Kitchen",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_4.jpg",
+    "description": "Kitchen"
+  },
+  {
+    "id": 16,
+    "name": "Denmark — Parking 1",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_6.jpg",
+    "description": "Parking 1"
+  },
+  {
+    "id": 17,
+    "name": "Denmark — Landscape",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_8.jpg",
+    "description": "Landscape"
+  },
+  {
+    "id": 18,
+    "name": "Denmark — Landscape 2",
+    "country": "DK",
+    "flag": "🇩🇰",
+    "type": "image",
+    "url": "http://83.89.251.14:8080/cam_9.jpg",
+    "description": "Landscape 2"
+  },
+  {
+    "id": 19,
+    "name": "Sweden — Backdoor",
+    "country": "SE",
+    "flag": "🇸🇪",
+    "type": "image",
+    "url": "http://31.208.146.193:81/cam_1.cgi",
+    "description": "Backdoor"
+  },
+  {
+    "id": 20,
+    "name": "Living Room",
+    "country": "US",
+    "flag": "🇺🇸",
+    "type": "image",
+    "url": "http://184.57.102.6:9550/cam_1.cgi",
+    "description": "Room"
+  },
+  {
+    "id": 21,
+    "name": "Living Room",
+    "country": "KR",
+    "flag": "🇰🇷",
+    "type": "image",
+    "url": "http://61.78.164.58:8089/cam_1.cgi",
+    "description": "CLTX4"
+  }
+]
